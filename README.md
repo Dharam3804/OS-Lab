@@ -16,5 +16,7 @@ b) Construct the complete binary tree using fork() system call and return the he
 
 assignment 3
  a) Write a C program for orphan process using fork() system call.
+ 
  b) Write a C program to create the zombie process.
+ 
  c)Create a multi-process program with 1 parent and 3 children.

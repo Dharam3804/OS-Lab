@@ -24,6 +24,13 @@ assignment 3:
  c)Create a multi-process program with 1 parent and 3 children.
  
  
+ 
+ assignment 4
+ 
+ Q1. Same thread id is printed in parent and child process.
+    
+ 
+ 
  Assignment -5 
  
  

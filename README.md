@@ -39,9 +39,9 @@ Q1- Write a multithreaded program that generates the Fibonacci series. This prog
 Q2- A C program to show multiple threads with local, global and static variables. Create three threads and print the value of the static, global and local variable. 
 
 assignment -06
-  1. ImplementBinaryandcountingsemaphore.
+  1. Implement Binary and counting semaphore.
   
-  2. ImplementPeterson’sAlgorithminProcessSynchronizationusingmultiprocessorfork()systemcall.
+  2. Implement Peterson’s Algorithm in Process Synchronization using multiprocessor fork() systemcall.
   
-  3. Demonstratetheraceconditionusingfork()systemcall.
+  3. Demonstrate the racecondition using fork() systemcall.
 

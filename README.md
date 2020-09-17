@@ -45,3 +45,9 @@ assignment -06
   
   3. Demonstrate the racecondition using fork() systemcall.
 
+
+assignment -07
+
+Producer and Consumer Classical Process Synchronization 
+
+Reader and Writer Classical Process Synchronization

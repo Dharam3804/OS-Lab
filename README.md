@@ -48,6 +48,11 @@ assignment -06
 
 assignment -07
 
-Producer and Consumer Classical Process Synchronization 
+    Producer and Consumer Classical Process Synchronization 
 
-Reader and Writer Classical Process Synchronization
+    Reader and Writer Classical Process Synchronization
+
+
+assignment -08
+
+  Implement the dining philosophers problem using semaphore and monitor in C. 

@@ -1,4 +1,5 @@
 #include <pthread.h>
+#include<math.h>
 #include <semaphore.h>
 #include <stdio.h>
 

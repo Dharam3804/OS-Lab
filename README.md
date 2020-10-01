@@ -60,6 +60,7 @@ assignment -09
   Implement the dining philosophers problem using semaphore and monitor in C. 
   
 assignment -10
+
      Banker's algo
   
   

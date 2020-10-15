@@ -57,11 +57,14 @@ assignment-08
 
 assignment -09
 
-  Implement the dining philosophers problem using semaphore and monitor in C. 
+  Implement the dining philosophers problem using semaphore and monitor in C.
+  
+  Banker's algo
   
 assignment -10
 
-     Banker's algo
+  Write a program for FCFS ,SJF, priority and Round robin CPU scheduling in C
+     
   
   
   
